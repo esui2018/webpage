@@ -1,5 +1,5 @@
 ---
-title: "Bestest website (AKA better than Melanie's)"
+title: "Best website"
 author: "Emma Sui"
 date: "Last updated on `r Sys.Date()`"
 output:
